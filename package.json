@@ -1,0 +1,24 @@
+{
+  "name": "assert-html-equal",
+  "version": "0.0.1",
+  "description": "Check if two HTML strings are identical in structure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gakimball/assert-html-equal.git"
+  },
+  "keywords": [
+    "assert",
+    "html",
+    "testing"
+  ],
+  "author": "Geoff Kimball <geoff@geoffkimball.com> (http://geoffkimball.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gakimball/assert-html-equal/issues"
+  },
+  "homepage": "https://github.com/gakimball/assert-html-equal#readme"
+}
