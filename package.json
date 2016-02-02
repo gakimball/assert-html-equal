@@ -1,6 +1,6 @@
 {
   "name": "assert-html-equal",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Check if two HTML strings are identical in structure.",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/gakimball/assert-html-equal/issues"
   },
-  "homepage": "https://github.com/gakimball/assert-html-equal#readme"
+  "homepage": "https://github.com/gakimball/assert-html-equal#readme",
+  "dependencies": {
+    "js-beautify": "^1.6.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
 }
