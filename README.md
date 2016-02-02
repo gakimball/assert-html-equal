@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/gakimball/assert-html-equal.svg?branch=master)](https://travis-ci.org/gakimball/assert-html-equal) [![npm version](https://badge.fury.io/js/assert-html-equal.svg)](https://badge.fury.io/js/assert-html-equal) [![Dependency Status](https://david-dm.org/gakimball/assert-html-equal.svg)](https://david-dm.org/gakimball/assert-html-equal)
+
 # assert-html-equal
 
 Checks that two HTML strings are equal. The two strings are pretty-formatted before being compared, to ensure differences in whitespace, tabs, etc. don't mess up the comparison.
